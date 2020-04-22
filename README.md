@@ -48,20 +48,20 @@ In order to run the application, follow the steps:
 ### Results
 
 Once you start the application, you can see something as follows:
-![Image for homepage](images/home.png)
+![Image for homepage](images/home.PNG)
 
 Once you enter your name, you see the following chat screen:
 ![Image for chatroom](images/chatroom-1.PNG)
 You can see on the left panel, the name of the chat room and the list of participants. On the top, you can see the app name, current user and a button with title "Leave Room" which is used to exit the chat room.
 
 When another user joins the chat, a notification is receieved by all other participant(s) in the chat room and the list of participant(s) gets updated on the left panel.
-![Image for notification when other user joins](images/chatroom-2.png)
+![Image for notification when other user joins](images/chatroom-2.PNG)
 
 The following screen demonstrates the chat.
-![Image for chat](images/chatroom-3.png)
+![Image for chat](images/chatroom-3.PNG)
 
 When a user exits the chatroom, other participant(s) will get notification.
-![Image for user leaving chat](images/chatroom-4.png)
+![Image for user leaving chat](images/chatroom-4.PNG)
 
 And *Voila!*, enjoy this application and check this page regularly as new features will added to this application. :+1:
 
